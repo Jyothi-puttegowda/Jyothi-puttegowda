@@ -1,3 +1,4 @@
+![Salesforce-BG](https://user-images.githubusercontent.com/132176514/235353240-72228a5c-fa8b-459f-8858-a3c26481a91a.png)
 # 👋 Hi, I’m @Jyothi Puttegowda
 
 👀 I’m Salesforce Administrator.
