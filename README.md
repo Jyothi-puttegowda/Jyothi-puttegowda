@@ -12,7 +12,7 @@
 
 # Contact
 - **Email:** jyothi.puttegowda@outlook.com
-- **LinkedIn:** https://www.linkedin.com/in/sharankumarkolluru/
+- **LinkedIn:** https://www.linkedin.com/in/jyothiputtegowda/
 
 # Technical Skills
 - **Programming Languages:** APEX Programming (Basics)
