@@ -8,7 +8,7 @@
 
 **Trailblazer Profile:** https://trailblazer.me/id/jyothi-puttegowda
 
-**Github:** https://ltsquare.gitbook.io/salesforce-lightning-resources/
+**Github:** 
 
 # Contact
 - **Email:** jyothi.puttegowda@outlook.com
