@@ -3,13 +3,13 @@
 
 👀 I’m Salesforce Administrator.
 
-🌱 I’m currently working as a Salesforce Administrator at Infosys, Banglore, India.
+🌱 I’m currently working as a Salesforce Administrator at Infosys, Bengaluru, India.
 
 😄 I'm currently learning Salesforce Development
 
 **Trailblazer Profile:** https://trailblazer.me/id/jyothi-puttegowda
 
-**Github:** 
+**Github:** https://github.com/Jyothi-puttegowda/
 
 # Contact
 - **Email:** jyothi.puttegowda@outlook.com
