@@ -13,7 +13,7 @@
 
 # Contact
 - **Email:** jyothi.puttegowda@outlook.com
-- **LinkedIn:** https://www.linkedin.com/in/jyothiputtegowda/
+- **LinkedIn:** https://www.linkedin.com/in/jyothi-puttegowda/
 
 # Technical Skills
 - **Programming Languages:** APEX Programming (Basics)
